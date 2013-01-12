@@ -1,0 +1,14 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    eventmachine (1.0.0-x86-mingw32)
+    sys-proctable (0.9.2-x86-mingw32)
+    win32-api (1.4.8-x86-mingw32)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  eventmachine (~> 1.0.0)
+  sys-proctable
+  win32-api (~> 1.4.8)
